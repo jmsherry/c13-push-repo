@@ -7,3 +7,4 @@ Aaron WP
 Nataliia Tsirul
 Charly
 Alex Forward
+Daniel Mendiz
